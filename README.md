@@ -1,6 +1,6 @@
 
 ![aibnb_thumbnail](https://user-images.githubusercontent.com/109259266/233064403-3079f776-1104-4193-86bc-80214f80d7bc.png)
-
+![airbnb_intro](https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/airbnb_intro.png)
 ![1](https://user-images.githubusercontent.com/109259266/233064527-274c4b9c-1372-4927-bb39-188099a949db.png)
 
 ![Exploration Begins (1)](https://user-images.githubusercontent.com/109259266/233065772-c6f05967-9d7a-4bec-a57f-f619c1130257.png)
